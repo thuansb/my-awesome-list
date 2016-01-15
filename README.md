@@ -1,6 +1,6 @@
 # my-awesome-list
 
-* [Awesome list](https://github.com/sindresorhus/awesome)
+* [The world's awesome list](https://github.com/sindresorhus/awesome)
 
 
 
